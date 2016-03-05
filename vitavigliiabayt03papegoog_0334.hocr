@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./vitavigliiabayt03papegoog_0334.png"; bbox 0 0 3934 5192; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 81 1606 1870 2528">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 81 1606 1870 2528">
+     <span class='ocr_line' id='line_1_1' title="bbox 286 1606 1870 1829; baseline 0 -5"><span class='ocrx_word' id='word_1_1' title='bbox 286 1606 1422 1829; x_wconf 81' lang='lat' dir='ltr'><strong>GENEALOGIA</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1602 1777 1605 1782; x_wconf 61' lang='grc'>,</span> <span class='ocrx_word' id='word_1_3' title='bbox 1822 1651 1870 1722; x_wconf 0' lang='grc' dir='ltr'>· </span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 81 2014 1712 2373; baseline 0 -183"><span class='ocrx_word' id='word_1_4' title='bbox 81 2014 89 2373; x_wconf 46' lang='grc' dir='ltr'><strong>Ξ</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 433 2020 1278 2306; x_wconf 69' lang='lat' dir='ltr'>AYTTANA</span> <span class='ocrx_word' id='word_1_6' title='bbox 1708 2039 1712 2046; x_wconf 94' lang='grc'><strong><em>·</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 83 2383 87 2528; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 83 2383 87 2528; x_wconf 63' lang='grc' dir='ltr'>ἱ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 82 2656 1520 2842">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 82 2549 1520 2871">
+     <span class='ocr_line' id='line_1_4' title="bbox 82 2656 1520 2842; baseline -0.006 -38"><span class='ocrx_word' id='word_1_8' title='bbox 82 2659 89 2842; x_wconf 69' lang='grc' dir='ltr'><strong><em>ῑ</em></strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 254 2656 1450 2820; x_wconf 78' lang='lat' dir='ltr'>Ms.coLLEG11VIGL1AN1‚</span> <span class='ocrx_word' id='word_1_10' title='bbox 1517 2763 1520 2769; x_wconf 91' lang='lat'><em>.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 559 3027 1572 3140">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 559 3027 1572 3205">
+     <span class='ocr_line' id='line_1_5' title="bbox 559 3027 1572 3140; baseline 0 -4"><span class='ocrx_word' id='word_1_11' title='bbox 559 3027 1145 3140; x_wconf 70' lang='lat' dir='ltr'><em>LoVANJJ.</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 1569 3133 1572 3136; x_wconf 77' lang='grc'><strong>,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1972 5192">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1972 5192">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1972 5192; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1972 5192; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
